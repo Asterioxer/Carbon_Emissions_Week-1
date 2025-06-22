@@ -1,3 +1,5 @@
+Week 1 of Carbon Emissions Internship
+
 📁 Project Overview
 In this module, I worked with a raw CSV file containing carbon emissions data. The goal was to clean and preprocess this data to make it suitable for downstream analysis. Key tasks included:
 - Handling missing values
